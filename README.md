@@ -1,1 +1,1 @@
-# ai-project-manager-CLI
+# AI Project Manger CLI
