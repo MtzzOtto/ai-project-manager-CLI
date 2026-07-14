@@ -1,20 +1,35 @@
-# Product Goals Template
-
-> Status: Draft
-
-## Purpose
-
-TODO
-
+# Product Goals
 ---
-
-## Structure
-
-TODO
-
+## Vision Alignment
+Explain how the goals support the product vision.
 ---
+# Short-Term Goals
+- Goal
+- Goal
+- Goal
+---
+# Mid-Term Goals
+- Goal
+- Goal
+- Goal
+---
+# Long-Term Goals
+- Goal
+- Goal
+- Goal
+---
+# Dependencies
+- Mission
+- Vision
+- Problem Statement
+---
+# References
+- Mission
+- Vision
+# Success Definition
+This document is considered complete when:
+- [ ] \[ \]
+- [ ] \[ \]
+- [ ] \[ \]
 
-## Notes
-
-This template will be completed once the corresponding Knowledge Base document has been finalized.
 
