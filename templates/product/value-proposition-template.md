@@ -23,6 +23,7 @@ Describe the expected outcomes once the value proposition is delivered.
 # References
 - Target Users
 - Problem Statement
+- Documentation Standards
 # Success Definition
 This document is considered complete when:
 - [ ] \[ \]

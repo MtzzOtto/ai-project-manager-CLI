@@ -1,20 +1,136 @@
-# System Architecture Template
+# System Architecture
 
-> Status: Draft
+## Overview
 
-## Purpose
+Describe the complete system architecture.
+---
+# Audience
 
-TODO
+## Primary Audience
+
+- Architects
+- Senior Software Engineers
+- AI Agents
+
+## Secondary Audience
+
+- Product Managers
+- QA Engineers
+- Developers
+---
+
+# Architectural Principles
+
+-
+
+-
+
+-
 
 ---
 
-## Structure
+# System Layers
 
-TODO
+## Presentation Layer
+
+Purpose:
+
+Responsibilities:
+---
+## Application Layer
+
+Purpose:
+
+Responsibilities:
+---
+## Domain Layer
+
+Purpose:
+
+Responsibilities:
+
+---
+## Infrastructure Layer
+
+Purpose:
+
+Responsibilities:
 
 ---
 
-## Notes
+# Main Components
 
-This template will be completed once the corresponding Knowledge Base document has been finalized.
+| Component | Responsibility |
+|------------|----------------|
+| | |
+
+---
+
+# Component Relationships
+
+Describe how components communicate.
+
+---
+
+# Communication Patterns
+
+-
+
+-
+
+-
+
+---
+
+# Deployment Overview
+
+Describe where the system runs.
+
+---
+
+# Scalability Considerations
+
+-
+
+-
+
+-
+
+---
+
+# Security Considerations
+
+-
+
+-
+
+-
+
+---
+
+# Constraints
+
+-
+
+-
+
+-
+
+---
+# References
+
+- High-Level Design
+- ADRs
+- Infrastructure Documentation
+- Documentation Standards
+---
+# Success Definition
+
+The architecture is considered complete when:
+
+- [ ] System layers are documented
+- [ ] Components are identified
+- [ ] Responsibilities are defined
+- [ ] Communication is documented
+- [ ] Constraints are identified
 

@@ -1,20 +1,27 @@
-# External Resources Template
+# Resource Categories
 
-> Status: Draft
+## Documentation
 
-## Purpose
+## Books
 
-TODO
+## Articles
+
+## Videos
+
+## Courses
+
+## Tools
 
 ---
 
-## Structure
+# Recommended Resources
 
-TODO
+| Resource | Category | Link | Notes |
 
 ---
 
-## Notes
+# References
 
-This template will be completed once the corresponding Knowledge Base document has been finalized.
+---
 
+# Success Definition

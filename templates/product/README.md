@@ -25,12 +25,10 @@ Provides reusable templates for documenting the business and product vision of a
 - Traceability
 - Single Source of Truth
 
-## Status
-
-Version 1.0
-
 ## Version
 
 Current Version: 1.0
 
-Status: Frozen
+## Status
+
+Frozen

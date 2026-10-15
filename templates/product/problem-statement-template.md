@@ -48,6 +48,7 @@ Explain the expected improvements in workflow, productivity, collaboration, and 
 # References
 - Mission
 - Vision
+- Documentation Standards
 # Success Definition
 This document is considered complete when:
 - [ ] \[ \]

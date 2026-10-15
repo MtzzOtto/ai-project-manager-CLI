@@ -32,6 +32,7 @@ Explain the long-term commitment of the project.
 - Vision
 - Product Goals
 - Target Users
+- Documentation Standards
 # Success Definition
 This document is considered complete when:
 - [ ] \[ \]

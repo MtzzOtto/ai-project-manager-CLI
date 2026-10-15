@@ -30,6 +30,7 @@ Describe assumptions made about the target users.
 # References
 - Value Proposition
 - Mission
+- Documentation Standards
 # Success Definition
 This document is considered complete when:
 - [ ] \[ \]

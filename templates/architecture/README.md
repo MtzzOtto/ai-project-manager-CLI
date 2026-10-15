@@ -2,14 +2,36 @@
 
 ## Purpose
 
-Holds draft Knowledge Base templates for architecture documentation.
+Defines the official architecture documentation templates used by AI Project Manager CLI.
 
-## Responsibilities
+## Scope
 
-- Provide consistent document starting points.
-- Keep documentation categories discoverable.
+Provides reusable templates for documenting software architecture decisions, system design, engines, providers, integrations and security.
 
-## Future contents
+## Contents
 
-TODO: Complete templates after the corresponding Knowledge Base documents are finalized.
+- ADR
+- High-Level Design
+- System Architecture
+- Core Components
+- Context Engine
+- Execution Engine
+- Documentation Engine
+- Template Engine
+- Provider Architecture
+- Integrations
+- Security
 
+## Principles
+
+- Consistency
+- Reusability
+- Traceability
+- Documentation First Development
+## Status
+
+Frozen
+
+## Version
+
+Current Version: 1.0

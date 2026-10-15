@@ -1,20 +1,16 @@
-# Glossary Template
+# Terms
 
-> Status: Draft
-
-## Purpose
-
-TODO
+| Term | Definition | Category |
 
 ---
+# Acronyms
 
-## Structure
-
-TODO
+| Acronym | Meaning |
+---
+# Concepts
+| Concept | Description |
+---
+# References
 
 ---
-
-## Notes
-
-This template will be completed once the corresponding Knowledge Base document has been finalized.
-
+# Success Definition

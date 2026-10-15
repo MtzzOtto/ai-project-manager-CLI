@@ -31,6 +31,7 @@ Describe the future evolution of the platform.
 # References
 - Mission
 - Product Goals
+- Documentation Standards
 # Success Definition
 This document is considered complete when:
 - [ ] \[ \]

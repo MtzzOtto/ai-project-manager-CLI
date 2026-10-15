@@ -26,6 +26,7 @@ Explain how the goals support the product vision.
 # References
 - Mission
 - Vision
+- Documentation Standards
 # Success Definition
 This document is considered complete when:
 - [ ] \[ \]

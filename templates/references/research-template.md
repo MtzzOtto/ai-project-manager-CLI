@@ -1,20 +1,30 @@
-# Research Template
-
-> Status: Draft
-
-## Purpose
-
-TODO
+# Research Objective
 
 ---
 
-## Structure
-
-TODO
+# Research Questions
 
 ---
 
-## Notes
+# Sources
 
-This template will be completed once the corresponding Knowledge Base document has been finalized.
+| Source | Type | Status |
 
+---
+
+# Findings
+
+---
+
+# Conclusions
+
+---
+# Open Questions
+
+---
+
+# References
+
+---
+
+# Success Definition
